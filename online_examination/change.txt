@@ -1,0 +1,6 @@
+change in examination.php
+
+constructor
+
+
+$this->home_page = 'http://localhost:5000/online_examination/';
